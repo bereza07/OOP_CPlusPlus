@@ -51,6 +51,7 @@ void Task1_1() {
 
 
 void Task1_2() {
+	//Дебаг 1_2 практической
 	Player hero("Hero", 120, 10);
 	Enemy wolf("Small Wolf", 160, "Wolf");
 	Boss bossWolf("The Proud Wolf", 300.f, "Wolf", "Byte");
@@ -62,6 +63,7 @@ void Task1_2() {
 
 
 void Task1_3() {
+	//Дебан 1_3 практической
 	srand(static_cast<unsigned>(time(0))); // Инициализация генератора случайных чисел
 	Character1 hero("Hero", 100, 20, 10);
 	Monster goblin("Goblin", 50, 15, 5);

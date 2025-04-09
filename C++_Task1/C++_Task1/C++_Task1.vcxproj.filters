@@ -57,10 +57,10 @@
     <ClCompile Include="Character1.cpp">
       <Filter>Source Files\Task1_3</Filter>
     </ClCompile>
-    <ClCompile Include="Monster.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Boss1.cpp">
+      <Filter>Source Files\Task1_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
       <Filter>Source Files\Task1_3</Filter>
     </ClCompile>
   </ItemGroup>
@@ -86,10 +86,10 @@
     <ClInclude Include="Character1.h">
       <Filter>Header Files\Task1_3</Filter>
     </ClInclude>
-    <ClInclude Include="Monster.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Boss1.h">
+      <Filter>Header Files\Task1_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
       <Filter>Header Files\Task1_3</Filter>
     </ClInclude>
   </ItemGroup>
