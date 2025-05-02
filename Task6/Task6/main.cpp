@@ -54,6 +54,9 @@ public:
 int main() {
 	try {
 		Queue<int> intQueue;
+		intQueue.push(12);
+		intQueue.displayInfo();
+		intQueue.pop();
 		intQueue.pop();
 	}
 	catch (const std::invalid_argument& e) {
