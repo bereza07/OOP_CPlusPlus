@@ -1,0 +1,16 @@
+Goblin appeared!
+Hero attacks Goblin
+Goblin attacks Hero
+Hero attacks Goblin
+Goblin attacks Hero
+Hero attacks Goblin
+Hero defeat Goblin
+Hero gain 50 xp
+Hero get's gold
+Skeleton appeared!
+Hero attacks Skeleton
+Skeleton attacks Hero
+Hero attacks Skeleton
+Hero defeat Skeleton
+Hero gain 50 xp
+Hero get's gold
